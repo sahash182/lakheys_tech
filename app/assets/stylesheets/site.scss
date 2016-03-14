@@ -1,3 +1,46 @@
+body > nav > div{
+	background-color: white;
+	color: red;
+	border: none;
+}
+#bs-example-navbar-collapse-1 > ul:nth-child(1) > li.active > a{
+	background-color: #1C1C1C;
+}
+#bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > form > button{
+	background-color: #9b0303;
+
+}
+.navbar-nav{
+	color: white;
+}
+.navbar-header{
+	background-color: white;
+}
+.jumbotron{
+	background-image: url('http://www.conjoinix.com/wp-content/themes/twentyeleven/images/header_consultancy.png');
+	height: 500px;
+	background-size: cover;	
+}
+.tag_div{
+	float: right;
+	width: 35%;
+}
+.tag{
+	float: right;
+	color: #000000;
+	font-size: 30px;
+}
+.header{
+	color: #FF0000;
+	font-size: 60px;
+
+}
+#link{
+	color: #9b0303;
+}
+#link:hover{
+	background-color: rgb(0, 0, .5);
+}
 // Place all the styles related to the site controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/

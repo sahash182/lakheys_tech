@@ -1,0 +1,21 @@
+p{
+	text-align: justify;
+}
+#about{
+	background-image: url('/assets/about.jpg');
+	height: 400px;
+	background-size: cover;
+	
+}
+#about > h1{
+	color: #9b0303;
+}
+body > div.container.row-fluid > div:nth-child(2) > h2{
+	color: #9b0303;
+}
+body > div.container.row-fluid > div:nth-child(1) > h2{
+	color: #9b0303;
+}
+// Place all the styles related to the about controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
