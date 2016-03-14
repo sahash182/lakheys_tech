@@ -1,0 +1,48 @@
+// Place all the styles related to the services controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+#service_tag{
+	font-size: 20px;
+	color: #9b0303;
+}
+#services{
+	background-image: url('/assets/services.jpg');
+	height: 400px;
+	background-size: cover;
+}
+#salesforce{
+	background-image: url('/assets/salesforce.jpg');
+	height: 200px;
+	
+	background-size: cover;
+}
+#oracle{
+	background-image: url('/assets/oracle.jpg');
+	height: 180px;
+	
+	background-size: cover;
+}
+#java{
+	background-image: url('/assets/java.jpg');
+	height: 180px;
+	
+	background-size: cover;
+}
+#linux{
+	background-image: url('/assets/linux.jpg');
+	height: 180px;
+	
+	background-size: cover;
+}
+#dotnet{
+	background-image: url('/assets/dotnet.jpg');
+	height: 180px;
+	
+	background-size: cover;
+}
+#php{
+	background-image: url('/assets/php.jpg');
+	height: 180px;
+	
+	background-size: cover;
+}
